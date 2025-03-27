@@ -11,6 +11,10 @@ env/
 config.json
 secrets.json
 
+.gitignore
+.gitattributes:Zone.Identifier
+.gitignore:Zone.Identifier
+
 terraform.tfstate
 terraform.tfstate.backup
 by_terraform/modules/container_app/main.tf
