@@ -1,0 +1,17 @@
+# Python関連
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# 環境変数・設定ファイル
+.env
+config.json
+secrets.json
+
+terraform.tfstate
+terraform.tfstate.backup
+by_terraform/modules/container_app/main.tf
+by_terraform/.terraform
